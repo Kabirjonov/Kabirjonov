@@ -48,7 +48,7 @@
 const boburovdev = {
 	name: "Oxunjon",
 	role: "FullStack Developer & Educator",
-	skills: ["React", "Next.js", "TailwindCSS", "GSAP", "NestJS"],
+	skills: ["React", "Next.js", "TailwindCSS", "ExpressJS", "NestJS"],
 	loves: ["clean code", "UI/UX", "open source", "teaching"],
 	location: "Uzbekistan",
 	portfolio: "https://kabirjonov-oxunjon.onrender.com/",
