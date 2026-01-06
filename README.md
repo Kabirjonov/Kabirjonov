@@ -45,7 +45,7 @@
 ## 👨‍💻 About Me (as code)
 
 ```ts
-const boburovdev = {
+const kabirjanov = {
 	name: "Oxunjon",
 	role: "FullStack Developer & Educator",
 	skills: ["React", "Next.js", "TailwindCSS", "ExpressJS", "NestJS"],
