@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  🎨 Passionate Frontend Developer | 👨‍🏫 Educator | 🚀 UX‑Driven Coder
+  🎨 Passionate Full-Stack Developer | 👨‍🏫 Educator | 🚀 UX‑Driven Coder
 </p>
 
 <p align="left">
@@ -51,6 +51,6 @@ const kabirjanov = {
 	skills: ["React", "Next.js", "TailwindCSS", "ExpressJS", "NestJS"],
 	loves: ["clean code", "UI/UX", "open source", "teaching"],
 	location: "Uzbekistan",
-	portfolio: "https://kabirjonov-oxunjon.onrender.com/",
+	portfolio: "https://kabirjonov.uz",
 };
 ```
